@@ -19,3 +19,4 @@ This included a comparison of various Data Mining methodologies using R to carry
 - Decision Trees
 - Extra Tree
 - Gaussian Naive Bayes
+- SVM
