@@ -7,7 +7,7 @@ R Programming Language has been used for Coding.
 
 Following ML Algorithms were Implimented :
 - Logistic Regression
--Multiple Linear Regression
+- Multiple Linear Regression
 - KNN
 - Random Forrest
 - Ada Boost
